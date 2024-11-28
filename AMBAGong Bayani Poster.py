@@ -85,5 +85,5 @@ def poster(img_path, img_resize_perc, webcam_resize_perc, cam):
 img_path = 'AMBAGong Bayani Poster.png'
 img_resize_perc = 35
 webcam_resize_perc = 70
-cam = 2  # Used Droidcam, 0- default?
+cam = 0  # 2- Droidcam, 0- default?
 poster(img_path, img_resize_perc, webcam_resize_perc, cam)
